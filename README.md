@@ -6,7 +6,7 @@ CAD files for a handheld layered 3D-display based on three transparent OLED-disp
 Introduction
 ============
 
-This project contains all CAD files needed to build the layered 3D-display prototype described in [1]. All files are in the Autodesk Inventor file format. For easy 3d printing, STL files for all parts exported from Inventor are supplied in the STL directory.
+This project contains all CAD files needed to build the layered 3D-display prototype described in [1] and [2]. All files are in the Autodesk Inventor file format. For easy 3d printing, STL files for all parts exported from Inventor are supplied in the STL directory.
 The main case consists of six layers which are printed separately. An explosion drawing of the display is provided here: https://raw.githubusercontent.com/patrigg/Layered-3D-Display-Case/master/pictures/explosion_rendering.png
 It consists of the following parts (from front to bottom):
 - TouchTop
@@ -42,5 +42,6 @@ To assemble the plug, print the respective parts. Afterwards glue some male head
 If everything worked out, your prototype should look something like the one shown here:
 https://raw.githubusercontent.com/patrigg/Layered-3D-Display-Case/master/pictures/prototype.jpg
 
+[1] P. Bader, S. Schneegass, N. Henze, V. Schwind, and K. Wolf, “A Mobile See-through 3D Display with Front- and Back-touch,” in Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational, New York, NY, USA, 2014, pp. 1063–1066. http://doi.acm.org/10.1145/2639189.2670276
 
-[1] P. Bader, V. Schwind, N. Henze, S. Schneegass, N. Broy, A. Schmidt, “Design and Evaluation of a Handheld Layered 3D Display with Touch-Sensitive Front and Back,” in Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational, to appear, http://dx.doi.org/10.1145/2639189.2639257.
+[2] P. Bader, V. Schwind, N. Henze, S. Schneegass, N. Broy, and A. Schmidt, “Design and Evaluation of a Layered Handheld 3D Display with Touch-sensitive Front and Back,” in Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational, New York, NY, USA, 2014, pp. 315–318. http://doi.acm.org/10.1145/2639189.2639257
